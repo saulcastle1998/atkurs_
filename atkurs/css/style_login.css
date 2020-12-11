@@ -1,0 +1,47 @@
+nav{
+background-color: #1D3060;
+}
+header {
+    background-color: #1d3060;
+    padding: 30px;
+}
+
+footer {
+    background-color: #006080;
+    padding: 40px;
+}
+
+footer p {
+    color: #fff;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+
+footer h4 {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 400;
+}
+body {
+	background-image: url("../img/fondo.jpg");
+    background-size:cover;
+background-position:top center; 
+}
+#formulario {
+	border-style: solid;
+    /* border: 10px; */;
+    border-color: #E35D67;
+    width: 100%;
+    border-size: initial;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding: 22px;
+	text-transform: uppercase;
+}
+.submit{
+	text-transform: uppercase;
+	background-color: #006080;
+	color: #fff;
+}
